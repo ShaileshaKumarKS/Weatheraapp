@@ -1,2 +1,2 @@
-# Wearherapp
+# Weatherapp
 First project on github
